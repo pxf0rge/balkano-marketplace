@@ -1,0 +1,209 @@
+{
+  "app_name": "Laeno",
+  "app_tagline": "Kupujte i prodajte proizvode jednostavno",
+  "lets_try_now": "Isprobaj sada",
+
+  "login_title": "Prijavite se na svoj račun",
+  "create_account": "Kreirajte novi račun",
+  "already_have_account": "Već imate račun?",
+  "listing_type": "Tip oglasa",
+  "please_select_listing_type": "Odaberite tip oglasa",
+  "select_listing_type": "Odaberi tip oglasa",
+  "login": "Prijava",
+
+  "nav_home": "Početna",
+  "nav_search": "Pretraži",
+  "nav_chat": "Chat",
+  "nav_profile": "Profil",
+
+  "condition_very_good": "Vrlo dobro",
+  "condition_good": "Dobro",
+  "condition_fair": "Zadovoljavajuće",
+
+  "signup_failed": "Registracija nije uspjela",
+  "invalid_email_or_password": "Neispravan email ili lozinka",
+  "login_failed": "Prijava nije uspjela",
+
+  "welcome_back": "Pozdrav, dobrodošli natrag",
+  "dont_have_account": "Nemate račun?",
+  "signup": "Registracija",
+
+  "email_already_registered": "Ovaj email je već registriran",
+  "phone_already_registered": "Ovaj broj telefona je već registriran",
+  "user_already_exists": "Ovaj korisnik već postoji",
+
+  "sign_up": "Registriraj se",
+  "signup_subtitle": "Registrirajte se i pronađite, prikupite i stvorite najbolje",
+  "already_member": "Već ste član?",
+
+  "confirm_password": "Potvrdite lozinku",
+  "confirm_your_password": "Potvrdite svoju lozinku",
+  "password_not_match": "Lozinke se ne podudaraju!",
+
+  "email": "E-mail",
+  "enter_email": "Unesite svoj email",
+  "email_invalid": "Vaš email nije ispravan!",
+
+  "full_name": "Puno ime",
+  "enter_full_name": "Unesite svoje puno ime",
+  "full_name_required": "Puno ime je obavezno!",
+
+  "location": "Lokacija",
+  "enter_location": "Unesite svoju lokaciju",
+  "location_required": "Lokacija je obavezna!",
+
+  "mobile": "Mobitel",
+  "enter_mobile": "Unesite svoj broj",
+  "mobile_invalid": "Broj mobitela nije ispravan!",
+
+  "password": "Lozinka",
+  "enter_password": "Unesite svoju lozinku",
+
+  "search_hint": "Pretraži...",
+  "no_chats_yet": "Još nema razgovora",
+  "no_chats_found": "Nema pronađenih razgovora",
+
+  "sent": "Poslano",
+  "seen": "Viđeno",
+  "typing": "Tipkanje...",
+
+  "online": "Online",
+  "offline": "Offline",
+
+  "filter_all": "Sve",
+  "category_products": "Proizvodi",
+  "category_services": "Usluge",
+  "filter_read": "Pročitano",
+  "filter_unread": "Nepročitano",
+
+  "type_message": "Upišite poruku....",
+
+  "select_at_least_one_image": "Odaberite barem jednu sliku",
+  "listing_created_success": "Oglas je uspješno kreiran",
+  "listing_create_failed": "Neuspjelo kreiranje oglasa",
+
+  "create_new_listing": "Kreiraj novi oglas",
+  "product_image": "Slika proizvoda",
+  "title": "Naslov",
+  "title_example": "npr. Iphone13 Pro Max",
+
+  "description": "Opis",
+  "color": "Boja",
+  "color_example": "npr. Crvena",
+  "condition": "Stanje",
+
+  "price_pkr": "Cijena (EUR)",
+  "price_zero": "€ 0",
+  "location_example": "npr. Frankfurt F-7",
+
+  "update_listing_failed": "Neuspjelo ažuriranje oglasa",
+  "edit_listing": "Uredi oglas",
+
+  "delete_listing": "Izbriši oglas",
+  "delete_listing_confirm": "Jeste li sigurni da želite izbrisati ovaj proizvod? Ova radnja se ne može poništiti.",
+
+  "delete_message": "Izbriši poruku",
+  "delete_message_confirm": "Jeste li sigurni da želite izbrisati ovu poruku?",
+
+  "cancel": "Odustani",
+  "delete": "Izbriši",
+
+  "describe_product_hint": "Detaljno opišite svoj proizvod....",
+  "upload_images_hint": "Učitajte do 8 slika (JPG, PNG)",
+  "post": "Objavi",
+
+  "field_required": "Ovo polje je obavezno",
+  "my_listing": "Moj oglas",
+
+  "seller_information": "Informacije o prodavaču",
+  "cannot_message_yourself": "Ne možete poslati poruku sami sebi",
+  "something_went_wrong": "Nešto je pošlo po zlu",
+  "connecting": "Povezivanje...",
+
+  "contact_seller": "Kontaktiraj prodavača",
+  "marketplace": "Tržnica",
+
+  "no_internet": "Nema internetske veze",
+  "no_products_found": "Nema pronađenih proizvoda",
+  "search_items": "Pretraži proizvode",
+
+  "edit_profile": "Uredi profil",
+  "name_empty": "Ime ne može biti prazno",
+  "name_min_length": "Ime mora imati najmanje 3 znaka",
+
+  "email_required": "Email je obavezan",
+  "valid_email": "Unesite važeći email",
+
+  "phone": "Telefon",
+  "phone_required": "Telefon je obavezan",
+  "valid_phone": "Unesite važeći broj telefona",
+
+  "email_exists": "Email već postoji",
+  "phone_exists": "Telefon već postoji",
+
+  "my_listings": "Moji oglasi",
+  "logout": "Odjava",
+  "my_favorites": "Moji favoriti",
+
+  "confirm_logout": "Potvrdi odjavu",
+  "confirm_logout_message": "Jeste li sigurni da se želite odjaviti?",
+
+  "contact_information": "Kontakt informacije",
+
+  "discard": "Odbaci",
+  "save": "Spremi",
+
+  "active_listings": "Aktivni oglasi",
+  "sold_items": "Prodani artikli",
+
+  "enter_here": "Unesite ovdje...",
+
+  "no_results_found": "Nema pronađenih rezultata",
+
+  "category": "Kategorija",
+  "fashion": "Moda",
+  "electronics": "Elektronika",
+
+  "price_range": "Raspon cijena",
+  "under_5000": "Ispod € 5000",
+  "range_5000_10000": "€ 5000 - 10000",
+
+  "hello": "Pozdrav!",
+  "guest": "Gost",
+
+  "cannot_connect_server": "Nije moguće povezati se sa serverom. Provjerite svoju internetsku vezu.",
+  "try_again": "Pokušaj ponovno",
+  "change_language": "Promijeni jezik",
+  "confirm_language_change": "Jeste li sigurni da želite promijeniti jezik?",
+  "privacy_title": "Politika privatnosti",
+
+  "privacy_section_1_title": "Odgovorna osoba",
+  "privacy_section_1_body": "Odgovorna osoba za obradu podataka u ovoj mobilnoj aplikaciji \"Laeno\" je:\nBoris Barac\nOberföhringerstr. 137\n81925 München\nNjemačka\nEmail: laeno.app@gmail.com",
+
+  "privacy_section_2_title": "Opće informacije o obradi podataka",
+  "privacy_section_2_body": "Zaštita vaših osobnih podataka nam je važna. Obrada se provodi u skladu s Općom uredbom o zaštiti podataka (GDPR) i važećim njemačkim zakonima o zaštiti podataka.",
+
+  "privacy_section_3_title": "Prikupljanje osobnih podataka",
+  "privacy_section_3_body": "Prilikom korištenja aplikacije mogu se prikupljati i obrađivati sljedeći podaci:\n• Email adresa\n• Korisničko ime i profilne informacije\n• Sadržaj oglasa i učitane slike\n• Poruke između korisnika\n• Tehnički podaci (vrsta uređaja, operativni sustav, IP adresa, podaci o korištenju)",
+
+  "privacy_section_4_title": "Svrha obrade",
+  "privacy_section_4_body": "Vaši podaci obrađuju se radi:\n• Omogućavanja funkcionalnosti aplikacije\n• Upravljanja korisničkim računima\n• Objave i prikaza oglasa\n• Komunikacije između korisnika\n• Poboljšanja i sigurnosti platforme",
+
+  "privacy_section_5_title": "Pravna osnova obrade",
+  "privacy_section_5_body": "Obrada se provodi u skladu s člankom 6. stavkom 1. točkom b GDPR-a (izvršenje ugovora) i člankom 6. stavkom 1. točkom f GDPR-a (legitimni interes za sigurnu i funkcionalnu platformu).",
+
+  "privacy_section_6_title": "Dijeljenje podataka",
+  "privacy_section_6_body": "Osobni podaci dijele se s trećim stranama samo ako je to potrebno za tehničko pružanje aplikacije (npr. hosting ili cloud pružatelji usluga) ili ako to zahtijeva zakon.",
+
+  "privacy_section_7_title": "Razdoblje pohrane",
+  "privacy_section_7_body": "Osobni podaci pohranjuju se samo onoliko dugo koliko je potrebno za navedene svrhe ili koliko to zahtijevaju zakonske obveze.",
+
+  "privacy_section_8_title": "Prava ispitanika",
+  "privacy_section_8_body": "Imate pravo na:\n• Pristup svojim podacima\n• Ispravak netočnih podataka\n• Brisanje podataka\n• Ograničenje obrade\n• Prenosivost podataka\n• Povlačenje privole\nZa ostvarivanje prava kontaktirajte: laeno.app@gmail.com",
+
+  "privacy_section_9_title": "Sigurnost podataka",
+  "privacy_section_9_body": "Primjenjujemo odgovarajuće tehničke i organizacijske mjere kako bismo zaštitili vaše podatke od gubitka, manipulacije ili neovlaštenog pristupa.",
+
+  "privacy_section_10_title": "Izmjene politike privatnosti",
+  "privacy_section_10_body": "Zadržavamo pravo izmjene ove politike privatnosti prema potrebi. Uvijek vrijedi aktualna verzija."
+}

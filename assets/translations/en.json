@@ -1,0 +1,208 @@
+{
+  "app_name": "Laeno",
+  "app_tagline": "Buy and sell products easily",
+  "lets_try_now": "Lets Try Now",
+
+  "login_title": "Login to Your Account",
+  "create_account": "Create a New Account",
+  "already_have_account": "Already Have an Account?",
+  "login": "Login",
+  "listing_type": "Listing Type",
+  "select_listing_type": "Select Listing Type",
+  "nav_home": "Home",
+  "nav_search": "Search",
+  "please_select_listing_type": "Please select listing type",
+  "nav_chat": "Chat",
+  "nav_profile": "Profile",
+
+  "condition_very_good": "Very Good",
+  "condition_good": "Good",
+  "condition_fair": "Fair",
+
+  "signup_failed": "Signup failed",
+  "invalid_email_or_password": "Invalid email or password",
+  "login_failed": "Login failed",
+
+  "welcome_back": "Hello, welcome Back",
+  "dont_have_account": "Dont have account?",
+  "signup": "Signup",
+
+  "email_already_registered": "This email is already registered",
+  "phone_already_registered": "This phone number is already registered",
+  "user_already_exists": "This user already exists",
+
+  "sign_up": "Sign Up",
+  "signup_subtitle": "Sign up and Find,Collect and Create Your Best",
+  "already_member": "Already a Member?",
+
+  "confirm_password": "Confirm Password",
+  "confirm_your_password": "Confirm your password",
+  "password_not_match": "Password does not match!",
+
+  "email": "E-Mail",
+  "enter_email": "Enter your email",
+  "email_invalid": "Your email is incorrect!",
+
+  "full_name": "Full Name",
+  "enter_full_name": "Enter your full name",
+  "full_name_required": "Full name is required!",
+
+  "location": "Location",
+  "enter_location": "Enter your location",
+  "location_required": "Location is required!",
+
+  "mobile": "Mobile",
+  "enter_mobile": "Enter your mobile",
+  "mobile_invalid": "Mobile number is incorrect!",
+
+  "password": "Password",
+  "enter_password": "Enter your password",
+
+  "search_hint": "Search...",
+  "no_chats_yet": "No chats yet",
+  "no_chats_found": "No chats found",
+
+  "sent": "Sent",
+  "seen": "Seen",
+  "typing": "Typing...",
+
+  "online": "Online",
+  "offline": "Offline",
+
+  "filter_all": "All",
+  "category_products": "Products",
+  "category_services": "Services",
+  "filter_read": "Read",
+  "filter_unread": "Un-read",
+
+  "type_message": "Type a message....",
+
+  "select_at_least_one_image": "Please select at least one image",
+  "listing_created_success": "Listing created successfully",
+  "listing_create_failed": "Failed to create listing",
+
+  "create_new_listing": "Create New Listing",
+  "product_image": "Product Image",
+  "title": "Title",
+  "title_example": "eg. Iphone13 pro Max",
+
+  "description": "Description",
+  "color": "Color",
+  "color_example": "eg. Red",
+  "condition": "Condition",
+
+  "price_pkr": "Price (EUR)",
+  "price_zero": "€ 0",
+  "location_example": "eg. Frankfurt F-7",
+
+  "update_listing_failed": "Failed to update listing",
+  "edit_listing": "Edit Listing",
+
+  "delete_listing": "Delete Listing",
+  "delete_listing_confirm": "Are you sure you want to delete this product? This action cannot be undone.",
+
+  "delete_message": "Delete message",
+  "delete_message_confirm": "Are you sure you want to delete this message?",
+
+  "cancel": "Cancel",
+  "delete": "Delete",
+
+  "describe_product_hint": "Describe your Product in Detail....",
+  "upload_images_hint": "Upload up to 8 images (JPG, PNG)",
+  "post": "Post",
+
+  "field_required": "This field is required",
+  "my_listing": "My Listing",
+
+  "seller_information": "Seller Information",
+  "cannot_message_yourself": "You cannot message yourself",
+  "something_went_wrong": "Something went wrong",
+  "connecting": "Connecting...",
+
+  "contact_seller": "Contact Seller",
+  "marketplace": "Marketplace",
+
+  "no_internet": "No internet connection",
+  "no_products_found": "No products found",
+  "search_items": "Search for Items",
+
+  "edit_profile": "Edit Profile",
+  "name_empty": "Name cannot be empty",
+  "name_min_length": "Name must be at least 3 characters",
+
+  "email_required": "Email is required",
+  "valid_email": "Enter a valid email",
+
+  "phone": "Phone",
+  "phone_required": "Phone is required",
+  "valid_phone": "Enter valid phone number",
+
+  "email_exists": "Email already exists",
+  "phone_exists": "Phone already exists",
+
+  "my_listings": "My Listings",
+  "logout": "Logout",
+  "my_favorites": "My Favorites",
+
+  "confirm_logout": "Confirm Logout",
+  "confirm_logout_message": "Are you sure you want to logout?",
+
+  "contact_information": "Contact Information",
+
+  "discard": "Discard",
+  "save": "Save",
+
+  "active_listings": "Active Listings",
+  "sold_items": "Sold Items",
+
+  "enter_here": "Enter here...",
+
+  "no_results_found": "No results found",
+
+  "category": "Category",
+  "fashion": "Fashion",
+  "electronics": "Electronics",
+
+  "price_range": "Price Range",
+  "under_5000": "Under € 5000",
+  "range_5000_10000": "€ 5000 - 10000",
+
+  "hello": "Hello!",
+  "guest": "Guest",
+
+  "cannot_connect_server": "Cannot connect to server. Please check your internet connection.",
+  "try_again": "Try again",
+  "change_language": "Change Language",
+  "confirm_language_change": "Are you sure you want to change the language?",
+  "privacy_title": "Privacy Policy",
+
+  "privacy_section_1_title": "Responsible",
+  "privacy_section_1_body": "Responsible for data processing in this mobile application \"Laeno\" is:\nBoris Barac\nOberföhringerstr. 137\n81925 Munich\nGermany\nEmail: laeno.app@gmail.com",
+
+  "privacy_section_2_title": "General Information on Data Processing",
+  "privacy_section_2_body": "Protecting your personal data is important to us. Processing is carried out in accordance with the General Data Protection Regulation (GDPR) and applicable German data protection laws.",
+
+  "privacy_section_3_title": "Collection of Personal Data",
+  "privacy_section_3_body": "When using the app, the following data may be collected and processed:\n• Email address\n• Username and profile information\n• Listing content and uploaded images\n• Messages between users\n• Technical data (device type, operating system, IP address, usage data)",
+
+  "privacy_section_4_title": "Purpose of Processing",
+  "privacy_section_4_body": "Your data is processed for:\n• Providing app features\n• Managing user accounts\n• Publishing and displaying listings\n• Communication between users\n• Improving and securing the platform",
+
+  "privacy_section_5_title": "Legal Basis for Processing",
+  "privacy_section_5_body": "Processing is carried out in accordance with Article 6(1)(b) GDPR (performance of contract) and Article 6(1)(f) GDPR (legitimate interest in providing a secure and functional platform).",
+
+  "privacy_section_6_title": "Data Sharing",
+  "privacy_section_6_body": "Personal data will only be shared with third parties if necessary for the technical provision of the app (e.g. hosting or cloud service providers) or if required by law.",
+
+  "privacy_section_7_title": "Storage Duration",
+  "privacy_section_7_body": "Personal data is stored only as long as necessary for the respective purposes or as required by statutory retention obligations.",
+
+  "privacy_section_8_title": "Rights of Data Subjects",
+  "privacy_section_8_body": "You have the right to:\n• Access your stored data\n• Rectify incorrect data\n• Delete your data\n• Restrict processing\n• Data portability\n• Withdraw consent\nTo exercise your rights, contact: laeno.app@gmail.com",
+
+  "privacy_section_9_title": "Data Security",
+  "privacy_section_9_body": "We implement appropriate technical and organizational measures to protect your data from loss, manipulation, or unauthorized access.",
+
+  "privacy_section_10_title": "Changes to this Privacy Policy",
+  "privacy_section_10_body": "We reserve the right to amend this privacy policy when necessary. The current version always applies."
+}

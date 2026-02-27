@@ -1,0 +1,209 @@
+{
+  "app_name": "Laeno",
+  "app_tagline": "Produkte einfach kaufen und verkaufen",
+  "lets_try_now": "Jetzt ausprobieren",
+
+  "login_title": "Melden Sie sich bei Ihrem Konto an",
+  "create_account": "Neues Konto erstellen",
+  "already_have_account": "Haben Sie bereits ein Konto?",
+  "listing_type": "Anzeigetyp",
+  "please_select_listing_type": "Bitte wählen Sie einen Anzeigetyp",
+  "login": "Anmelden",
+  "select_listing_type": "Anzeigetyp auswählen",
+
+  "nav_home": "Startseite",
+  "nav_search": "Suche",
+  "nav_chat": "Chat",
+  "nav_profile": "Profil",
+
+  "condition_very_good": "Sehr gut",
+  "condition_good": "Gut",
+  "condition_fair": "Akzeptabel",
+
+  "signup_failed": "Registrierung fehlgeschlagen",
+  "invalid_email_or_password": "Ungültige E-Mail oder Passwort",
+  "login_failed": "Anmeldung fehlgeschlagen",
+
+  "welcome_back": "Hallo, willkommen zurück",
+  "dont_have_account": "Kein Konto?",
+  "signup": "Registrieren",
+
+  "email_already_registered": "Diese E-Mail ist bereits registriert",
+  "phone_already_registered": "Diese Telefonnummer ist bereits registriert",
+  "user_already_exists": "Dieser Benutzer existiert bereits",
+
+  "sign_up": "Registrieren",
+  "signup_subtitle": "Registrieren Sie sich und finden, sammeln und erstellen Sie Ihre Favoriten",
+  "already_member": "Bereits Mitglied?",
+
+  "confirm_password": "Passwort bestätigen",
+  "confirm_your_password": "Bestätigen Sie Ihr Passwort",
+  "password_not_match": "Passwörter stimmen nicht überein!",
+
+  "email": "E-Mail",
+  "enter_email": "E-Mail eingeben",
+  "email_invalid": "Ihre E-Mail ist ungültig!",
+
+  "full_name": "Vollständiger Name",
+  "enter_full_name": "Vollständigen Namen eingeben",
+  "full_name_required": "Vollständiger Name ist erforderlich!",
+
+  "location": "Standort",
+  "enter_location": "Standort eingeben",
+  "location_required": "Standort ist erforderlich!",
+
+  "mobile": "Mobilnummer",
+  "enter_mobile": "Mobilnummer eingeben",
+  "mobile_invalid": "Mobilnummer ist ungültig!",
+
+  "password": "Passwort",
+  "enter_password": "Passwort eingeben",
+
+  "search_hint": "Suchen...",
+  "no_chats_yet": "Noch keine Chats",
+  "no_chats_found": "Keine Chats gefunden",
+
+  "sent": "Gesendet",
+  "seen": "Gesehen",
+  "typing": "Tippt...",
+
+  "online": "Online",
+  "offline": "Offline",
+
+  "filter_all": "Alle",
+  "category_products": "Produkte",
+  "category_services": "Dienstleistungen",
+  "filter_read": "Gelesen",
+  "filter_unread": "Ungelesen",
+
+  "type_message": "Nachricht eingeben....",
+
+  "select_at_least_one_image": "Bitte wählen Sie mindestens ein Bild aus",
+  "listing_created_success": "Anzeige erfolgreich erstellt",
+  "listing_create_failed": "Anzeige konnte nicht erstellt werden",
+
+  "create_new_listing": "Neue Anzeige erstellen",
+  "product_image": "Produktbild",
+  "title": "Titel",
+  "title_example": "z.B. iPhone 13 Pro Max",
+
+  "description": "Beschreibung",
+  "color": "Farbe",
+  "color_example": "z.B. Rot",
+  "condition": "Zustand",
+
+  "price_pkr": "Preis (EUR)",
+  "price_zero": "€ 0",
+  "location_example": "z.B. Frankfurt F-7",
+
+  "update_listing_failed": "Anzeige konnte nicht aktualisiert werden",
+  "edit_listing": "Anzeige bearbeiten",
+
+  "delete_listing": "Anzeige löschen",
+  "delete_listing_confirm": "Sind Sie sicher, dass Sie dieses Produkt löschen möchten? Diese Aktion kann nicht rückgängig gemacht werden.",
+
+  "delete_message": "Nachricht löschen",
+  "delete_message_confirm": "Möchten Sie diese Nachricht wirklich löschen?",
+
+  "cancel": "Abbrechen",
+  "delete": "Löschen",
+
+  "describe_product_hint": "Beschreiben Sie Ihr Produkt ausführlich....",
+  "upload_images_hint": "Laden Sie bis zu 8 Bilder hoch (JPG, PNG)",
+  "post": "Veröffentlichen",
+
+  "field_required": "Dieses Feld ist erforderlich",
+  "my_listing": "Meine Anzeige",
+
+  "seller_information": "Verkäuferinformationen",
+  "cannot_message_yourself": "Sie können sich selbst keine Nachricht senden",
+  "something_went_wrong": "Etwas ist schiefgelaufen",
+  "connecting": "Verbinden...",
+
+  "contact_seller": "Verkäufer kontaktieren",
+  "marketplace": "Marktplatz",
+
+  "no_internet": "Keine Internetverbindung",
+  "no_products_found": "Keine Produkte gefunden",
+  "search_items": "Nach Artikeln suchen",
+
+  "edit_profile": "Profil bearbeiten",
+  "name_empty": "Name darf nicht leer sein",
+  "name_min_length": "Name muss mindestens 3 Zeichen enthalten",
+
+  "email_required": "E-Mail ist erforderlich",
+  "valid_email": "Geben Sie eine gültige E-Mail ein",
+
+  "phone": "Telefon",
+  "phone_required": "Telefonnummer ist erforderlich",
+  "valid_phone": "Geben Sie eine gültige Telefonnummer ein",
+
+  "email_exists": "E-Mail existiert bereits",
+  "phone_exists": "Telefonnummer existiert bereits",
+
+  "my_listings": "Meine Anzeigen",
+  "logout": "Abmelden",
+  "my_favorites": "Meine Favoriten",
+
+  "confirm_logout": "Abmeldung bestätigen",
+  "confirm_logout_message": "Sind Sie sicher, dass Sie sich abmelden möchten?",
+
+  "contact_information": "Kontaktinformationen",
+
+  "discard": "Verwerfen",
+  "save": "Speichern",
+
+  "active_listings": "Aktive Anzeigen",
+  "sold_items": "Verkaufte Artikel",
+
+  "enter_here": "Hier eingeben...",
+
+  "no_results_found": "Keine Ergebnisse gefunden",
+
+  "category": "Kategorie",
+  "fashion": "Mode",
+  "electronics": "Elektronik",
+
+  "price_range": "Preisspanne",
+  "under_5000": "Unter € 5000",
+  "range_5000_10000": "€ 5000 - 10000",
+
+  "hello": "Hallo!",
+  "guest": "Gast",
+
+  "cannot_connect_server": "Verbindung zum Server nicht möglich. Bitte überprüfen Sie Ihre Internetverbindung.",
+  "try_again": "Erneut versuchen",
+  "change_language": "Sprache ändern",
+  "confirm_language_change": "Sind Sie sicher, dass Sie die Sprache ändern möchten?",
+  "privacy_title": "Datenschutzerklärung",
+
+  "privacy_section_1_title": "Verantwortlicher",
+  "privacy_section_1_body": "Verantwortlich für die Datenverarbeitung in dieser mobilen Anwendung \"Laeno\" ist:\nBoris Barac\nOberföhringerstr. 137\n81925 München\nDeutschland\nE-Mail: laeno.app@gmail.com",
+
+  "privacy_section_2_title": "Allgemeine Hinweise zur Datenverarbeitung",
+  "privacy_section_2_body": "Der Schutz Ihrer personenbezogenen Daten ist uns ein wichtiges Anliegen. Die Verarbeitung erfolgt gemäß der Datenschutz-Grundverordnung (DSGVO) sowie den geltenden deutschen Datenschutzgesetzen.",
+
+  "privacy_section_3_title": "Erhebung personenbezogener Daten",
+  "privacy_section_3_body": "Bei Nutzung der App können folgende Daten erhoben und verarbeitet werden:\n• E-Mail-Adresse\n• Benutzername und Profilinformationen\n• Inhalte von Inseraten und hochgeladene Bilder\n• Nachrichten zwischen Nutzern\n• Technische Daten (Gerätetyp, Betriebssystem, IP-Adresse, Nutzungsdaten)",
+
+  "privacy_section_4_title": "Zweck der Verarbeitung",
+  "privacy_section_4_body": "Die Verarbeitung Ihrer Daten erfolgt zur:\n• Bereitstellung der Funktionen der App\n• Verwaltung von Benutzerkonten\n• Veröffentlichung und Anzeige von Inseraten\n• Kommunikation zwischen Nutzern\n• Verbesserung und Sicherheit der Plattform",
+
+  "privacy_section_5_title": "Rechtsgrundlage der Verarbeitung",
+  "privacy_section_5_body": "Die Verarbeitung erfolgt gemäß Art. 6 Abs. 1 lit. b DSGVO (Vertragserfüllung) sowie Art. 6 Abs. 1 lit. f DSGVO (berechtigtes Interesse an der sicheren und funktionalen Bereitstellung der Plattform).",
+
+  "privacy_section_6_title": "Weitergabe von Daten",
+  "privacy_section_6_body": "Eine Weitergabe personenbezogener Daten an Dritte erfolgt nur, soweit dies zur technischen Bereitstellung der App erforderlich ist (z.B. Hosting- oder Cloud-Dienstleister) oder eine gesetzliche Verpflichtung besteht.",
+
+  "privacy_section_7_title": "Speicherdauer",
+  "privacy_section_7_body": "Personenbezogene Daten werden nur so lange gespeichert, wie dies für die jeweiligen Zwecke erforderlich ist oder gesetzliche Aufbewahrungspflichten bestehen.",
+
+  "privacy_section_8_title": "Rechte der betroffenen Personen",
+  "privacy_section_8_body": "Sie haben das Recht auf:\n• Auskunft über Ihre gespeicherten Daten\n• Berichtigung unrichtiger Daten\n• Löschung Ihrer Daten\n• Einschränkung der Verarbeitung\n• Datenübertragbarkeit\n• Widerruf einer erteilten Einwilligung\nZur Ausübung Ihrer Rechte kontaktieren Sie uns unter: laeno.app@gmail.com",
+
+  "privacy_section_9_title": "Datensicherheit",
+  "privacy_section_9_body": "Wir setzen geeignete technische und organisatorische Maßnahmen ein, um Ihre Daten vor Verlust, Manipulation oder unbefugtem Zugriff zu schützen.",
+
+  "privacy_section_10_title": "Änderungen dieser Datenschutzerklärung",
+  "privacy_section_10_body": "Wir behalten uns vor, diese Datenschutzerklärung bei Bedarf anzupassen. Es gilt die jeweils aktuelle Version."
+}
