@@ -1,15 +1,15 @@
 import 'package:Balkano/data/models/user.dart';
 import 'package:easy_localization/easy_localization.dart';
 import 'package:flutter/material.dart';
-import 'package:phosphor_flutter/phosphor_flutter.dart';
+import 'package:phosphoricons_flutter/phosphoricons_flutter.dart';
 
 class ContactInfoCard extends StatelessWidget {
   final User user;
   ContactInfoCard({super.key, required this.user});
 
-  final location = PhosphorIcons.mapPin();
-  final phone = PhosphorIcons.phone();
-  final email = PhosphorIcons.envelope();
+  final location = PhosphorIconsRegular.mapPin;
+  final phone = PhosphorIconsRegular.phone;
+  final email = PhosphorIconsRegular.envelope;
 
   @override
   Widget build(BuildContext context) {

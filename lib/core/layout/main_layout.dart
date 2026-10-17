@@ -3,7 +3,7 @@ import 'package:Balkano/features/listing/presentation/pages/create_listing_page.
 import 'package:Balkano/features/profile/presentation/pages/profile_page.dart';
 import 'package:easy_localization/easy_localization.dart';
 import 'package:flutter/material.dart';
-import 'package:phosphor_flutter/phosphor_flutter.dart';
+import 'package:phosphoricons_flutter/phosphoricons_flutter.dart';
 import '../../features/marketplace/presentation/pages/marketplace_page.dart';
 import '../../features/search/presentation/pages/search_page.dart';
 import '../../features/chat/presentation/pages/conversations.dart';
@@ -101,15 +101,15 @@ class CustomBottomNavBar extends StatelessWidget {
     required this.onTap,
   });
 
-  final house = PhosphorIcons.house();
-  final search = PhosphorIcons.magnifyingGlass();
-  final chat = PhosphorIcons.chatCircle();
-  final user = PhosphorIcons.user();
+  final house = PhosphorIconsRegular.house;
+  final search = PhosphorIconsRegular.magnifyingGlass;
+  final chat = PhosphorIconsRegular.chatCircle;
+  final user = PhosphorIconsRegular.user;
 
-  final houseFilled = PhosphorIcons.house(PhosphorIconsStyle.fill);
-  final searchFilled = PhosphorIcons.magnifyingGlass(PhosphorIconsStyle.fill);
-  final chatFilled = PhosphorIcons.chatCircle(PhosphorIconsStyle.fill);
-  final userFilled = PhosphorIcons.user(PhosphorIconsStyle.fill);
+  final houseFilled = PhosphorIconsFill.house;
+  final searchFilled = PhosphorIconsFill.magnifyingGlass;
+  final chatFilled = PhosphorIconsFill.chatCircle;
+  final userFilled = PhosphorIconsFill.user;
 
   @override
   Widget build(BuildContext context) {
